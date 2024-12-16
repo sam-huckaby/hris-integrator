@@ -1,0 +1,5 @@
+# Probably don't need to store build targets
+/target
+
+# Let's not track the Database, that seems weird
+integrator_storage.db
